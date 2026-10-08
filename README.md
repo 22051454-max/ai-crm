@@ -85,3 +85,7 @@ cd frontend && npm run build
 | `POST /api/activities`, `GET/POST/PATCH /api/tasks` | timeline and tasks |
 | `GET/POST/PATCH /api/workflows`, `POST /api/workflows/run-stale` | automation |
 | `GET/POST/PATCH /api/users` | admin |
+
+## Author and contributors
+
+- **Sandeep Kashyap** ([@sktut](https://github.com/sktut)), author and maintainer
